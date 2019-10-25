@@ -1,2 +1,2 @@
 # Hackaton25-10
-// привет
+// Hello gay
